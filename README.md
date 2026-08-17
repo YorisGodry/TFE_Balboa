@@ -5,5 +5,5 @@ draft_thesis.pdf contains an explaination of the design of the controllers in se
 The other sections are draft and left as is.
 
 Most, if not all, of the code was written by myself or taken from one of these two directories:
-https://github.com/pololu/pololu-rpi-slave-arduino-library
-https://github.com/trebelge0/Balboa_network
+- Pololu interface between RPi and Balboa: https://github.com/pololu/pololu-rpi-slave-arduino-library
+- Previous Master student's work: https://github.com/trebelge0/Balboa_network
