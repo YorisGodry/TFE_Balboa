@@ -6,3 +6,4 @@ Some files are used to interface with the hardware, some other parts represent h
 The experiments folder contains smaller files that gathers data for one specific experiment.
 The experiments/importer.py sets up a few useful functions to make the experiments shorter to write.
 The data is then moved the rpi_control/data folder for making graphs.
+(importer.py was developed along with the experiments and some experiments don't use that file as well as others)
